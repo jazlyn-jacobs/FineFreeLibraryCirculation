@@ -1,0 +1,2 @@
+# FineFreeLibraryCirculation
+ This dataset is a total of juvenile/young adult material circulation from 12 months before to 12 months after public libraries eliminated late fee fines. The libraries in this dataset are Anderson Public Library, Jackson City Library, and The McComb Public Library. The intended audience is public library policymakers. This dataset was curated for a class at the University of Washington Information School in the winter of 2022.
